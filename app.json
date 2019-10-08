@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "gg",
+    "name": "wallpaper ",
     "slug": "wall-project1",
     "privacy": "public",
     "sdkVersion": "34.0.0",
@@ -23,8 +23,14 @@
     "assetBundlePatterns": [
       "**/*"
     ],
+    "android":{
+      "package":"com.wallpaper.app",
+      "versionCode":1,
+    },
     "ios": {
       "supportsTablet": true
-    }
+    },
+    "description": ""
   }
+  
 }
